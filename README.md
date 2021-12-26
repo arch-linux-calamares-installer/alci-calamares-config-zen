@@ -1,1 +1,1 @@
-# Alci Calamares config with zen kernel
+# Alci Calamares config with zen kernel - Cinnamon
